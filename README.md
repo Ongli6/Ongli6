@@ -2,4 +2,4 @@
 - 
 - 🔭 I’m currently working on finding a new job!
 - 🌱 I’m currently learning SQL, R, various other data analyst things
-- 🤔 I’m looking for help with paying my bills :)
+- 🤔 I’m looking for help with resources for learning!
