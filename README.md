@@ -1,5 +1,6 @@
 - Ohmri
+
+- All self taught
+- Currently working on getting more comfortable with R and SQL
+- Also exploring ML!
 - 
-- 🔭 I’m currently working on finding a new job!
-- 🌱 I’m currently learning SQL, R, various other data analyst things
-- 🤔 I’m looking for help with resources for learning!
